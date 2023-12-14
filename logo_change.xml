@@ -1,2 +1,19 @@
-change logo in svg file
+login logo change logo in svg file
 /usr/share/wazuh-dashboard/src/core/server/core_app/assets/
+
+
+loading logo
+/usr/share/wazuh-dashboard/config/opensearch_dashboards.yml
+---add below config---
+opensearchDashboards.branding:
+  # logo:
+    # defaultUrl: ""
+    # darkModeUrl: ""
+  # mark:
+    # defaultUrl: ""
+    # darkModeUrl: ""
+   loadingLogo:
+     defaultUrl: "https://46.250.237.191:60084/ui/Wazuh-Logo.svg"
+     darkModeUrl: "https://46.250.237.191:60084/ui/Wazuh-Logo.svg"
+  # faviconUrl: ""
+  # applicationTitle: "
