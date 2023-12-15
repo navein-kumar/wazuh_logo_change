@@ -13,7 +13,7 @@ opensearchDashboards.branding:
     # defaultUrl: ""
     # darkModeUrl: ""
    loadingLogo:
-     defaultUrl: "https://46.250.237.191:60084/ui/Wazuh-Logo.svg"
-     darkModeUrl: "https://46.250.237.191:60084/ui/Wazuh-Logo.svg"
+     defaultUrl: "https://codesecure.in/img/codesec.svg"
+     darkModeUrl: "https://codesecure.in/img/codesec.svg"
   # faviconUrl: ""
   # applicationTitle: "
