@@ -1,7 +1,10 @@
 login logo change logo in svg file
-/usr/share/wazuh-dashboard/src/core/server/core_app/assets/
+cd /usr/share/wazuh-dashboard/src/core/server/core_app/assets/
 chenge: wazuh_wazuh_bg.svg, Wazuh-Logo.svg
  login logo: https://codesecure.in/img/codesecwhite.png
+ wget https://codesecure.in/img/codesecwhite.png
+mv codesecwhite.png Wazuh-Logo.svg 
+
 
 loading logo
 /usr/share/wazuh-dashboard/config/opensearch_dashboards.yml
