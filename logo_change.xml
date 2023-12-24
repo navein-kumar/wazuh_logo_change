@@ -1,9 +1,8 @@
 login logo change logo in svg file
 cd /usr/share/wazuh-dashboard/src/core/server/core_app/assets/
 chenge: wazuh_wazuh_bg.svg, Wazuh-Logo.svg
- login logo: https://codesecure.in/img/codesecwhite.png
- wget https://codesecure.in/img/codesecwhite.png
-mv codesecwhite.png Wazuh-Logo.svg 
+
+ wget https://codesecure.in/img/codesecwhite.png -O Wazuh-Logo.svg
 
 
 loading logo
