@@ -6,7 +6,7 @@ chenge: wazuh_wazuh_bg.svg, Wazuh-Logo.svg
 
 
 loading logo
-/usr/share/wazuh-dashboard/config/opensearch_dashboards.yml
+vim /usr/share/wazuh-dashboard/config/opensearch_dashboards.yml
 ---add below config---
 opensearchDashboards.branding:
   # logo:
