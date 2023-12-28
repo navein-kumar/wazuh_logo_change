@@ -3,7 +3,7 @@ cd /usr/share/wazuh-dashboard/src/core/server/core_app/assets/
 chenge: wazuh_wazuh_bg.svg, Wazuh-Logo.svg
 
  wget https://codesecure.in/img/codesecwhite.png -O Wazuh-Logo.svg
-
+ wget https://codesecure.in/img/codesec.svg -O loadlogo.svg
 
 loading logo
 vim /usr/share/wazuh-dashboard/config/opensearch_dashboards.yml
